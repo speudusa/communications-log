@@ -6,6 +6,7 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine("Hello World!");
         }
     }
